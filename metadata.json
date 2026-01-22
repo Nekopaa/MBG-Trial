@@ -1,0 +1,8 @@
+{
+  "name": "MBG Systems - Sistem Manajemen Bergizi Nasional",
+  "description": "A comprehensive monitoring and management platform for the National Nutritious Meal Program (MBG) in East Java, supporting SDG 2 & 3.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
